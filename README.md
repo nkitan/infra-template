@@ -38,6 +38,7 @@ This repository contains Infrastructure-as-Code for various services including t
 Your infrasturcture should now be up
 
 ### Additional Commands
+
 - `docker ps` - See running services
 - `docker inspect` - inspect running services -> [docker-inspect](https://docs.docker.com/reference/cli/docker/inspect/)
 - `docker exec` - run custom commands on running services -> [docker-exec](https://docs.docker.com/reference/cli/docker/container/exec/)
