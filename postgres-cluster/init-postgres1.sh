@@ -1,5 +1,5 @@
 #!/bin/bash
-. ./.env
+. .env
 set -e
 
 # Create a replication role
